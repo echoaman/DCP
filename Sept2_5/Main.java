@@ -16,3 +16,10 @@ def cons(a, b):
 Implement car and cdr.
 
 */
+
+public class Main{
+
+    public static void main(String[] args) {
+        
+    }
+}
